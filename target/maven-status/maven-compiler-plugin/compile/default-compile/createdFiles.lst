@@ -1,0 +1,8 @@
+poliklinik\dao\CalisanDAO.class
+poliklinik\restcontroller\CalisanRestController.class
+poliklinik\security\WebSecurityConfig.class
+poliklinik\entity\Calisan.class
+poliklinik\config\JWTAuthorizationFilter.class
+poliklinik\config\SecurityConstants.class
+poliklinik\config\JWTAuthenticationFilter.class
+poliklinik\Program.class
